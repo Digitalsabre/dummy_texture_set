@@ -4,6 +4,8 @@ I now present to the world the Dummy Texture Set, with features designed to make
 
 Block textures come in transparent and opaque, in three outline colors, lettered from A-Z for each block side (up, north, east, south, west, and down).  Each block side is clearly marked with symbols identifying its side.
 
+26 lettered item textures are also a part of this texture set.
+
 ![](https://raw.githubusercontent.com/Digitalsabre/dummy_texture_set/master/item%20textures/item_a.png)
 ![](https://raw.githubusercontent.com/Digitalsabre/dummy_texture_set/master/item%20textures/item_b.png)
 ![](https://raw.githubusercontent.com/Digitalsabre/dummy_texture_set/master/item%20textures/item_c.png)
