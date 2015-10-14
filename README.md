@@ -33,7 +33,7 @@ Block textures come in transparent and opaque, in three outline colors, lettered
 ![](https://raw.githubusercontent.com/Digitalsabre/dummy_texture_set/master/item%20textures/item_y.png)
 ![](https://raw.githubusercontent.com/Digitalsabre/dummy_texture_set/master/item%20textures/item_z.png)
 
-This is not a texture pack.  It is a set of textures designed specifically for Minecraft mod coders to insert into projects while coding, so that they do not have to worry about modeling their own textures.
+This is not a texture pack.  It is a set of textures designed specifically for Minecraft mod coders to insert into projects while coding, so that they do not have to worry about the creation of textures interfering with their programming process.
 
 ## Benefits ##
 Code your blocks without setting aside the code itself.  Add these dummy textures as needed to your project with the appropriate block or item names, and the replace them when actual textures become available.
